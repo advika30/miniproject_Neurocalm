@@ -1,4 +1,4 @@
-##NeuroCalm
+#NeuroCalm
 
 NeuroCalm is a cutting-edge AI-powered application designed to help you manage stress through personalized recipe suggestions and management techniques. By analyzing your unique stress signals, NeuroCalm crafts customized recipes and provides actionable stress relief strategies.
 
