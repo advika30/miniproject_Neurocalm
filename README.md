@@ -84,6 +84,9 @@ git push origin feature/your-feature-name
 ### 6. Create a Pull Request
 Go to the GitHub repository and create a pull request to merge your changes.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
 For any questions or issues, please contact:
 
