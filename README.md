@@ -88,7 +88,7 @@ Go to the GitHub repository and create a pull request to merge your changes.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or issues, please contact:
+''' For any questions or issues, please contact:
 
 Advika Gupta: advikag3009@gmail.com
-Project Repository: https://github.com/advika30/miniproject_neurocalm
+Project Repository: https://github.com/advika30/miniproject_Neurocalm '''
